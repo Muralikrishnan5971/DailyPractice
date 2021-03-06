@@ -10,6 +10,10 @@ import org.testng.annotations.Test;
 
 public class SampleTestUsingTestNG {
 
+	/*
+	 * @author Muralikrishnan
+	 */
+	
 	public ChromeDriver driver;
 
 	@BeforeMethod
