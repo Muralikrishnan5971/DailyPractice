@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="18652" started-at="2021-03-06T12:53:01Z" finished-at="2021-03-06T12:53:19Z">
+  <suite name="Default suite" duration-ms="19544" started-at="2021-03-08T08:51:03Z" finished-at="2021-03-08T08:51:23Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="18652" started-at="2021-03-06T12:53:01Z" finished-at="2021-03-06T12:53:19Z">
+    <test name="Default test" duration-ms="19544" started-at="2021-03-08T08:51:03Z" finished-at="2021-03-08T08:51:23Z">
       <class name="seleniumBasics.SampleTestUsingTestNG">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:seleniumBasics.SampleTestUsingTestNG@42d80b78]" name="setUp" is-config="true" duration-ms="11858" started-at="2021-03-06T12:53:01Z" finished-at="2021-03-06T12:53:13Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:seleniumBasics.SampleTestUsingTestNG@42d80b78]" name="setUp" is-config="true" duration-ms="11604" started-at="2021-03-08T08:51:03Z" finished-at="2021-03-08T08:51:15Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="FacebookSignUp()[pri:0, instance:seleniumBasics.SampleTestUsingTestNG@42d80b78]" name="FacebookSignUp" duration-ms="6380" started-at="2021-03-06T12:53:13Z" finished-at="2021-03-06T12:53:19Z">
+        <test-method status="PASS" signature="FacebookSignUp()[pri:0, instance:seleniumBasics.SampleTestUsingTestNG@42d80b78]" name="FacebookSignUp" duration-ms="7508" started-at="2021-03-08T08:51:15Z" finished-at="2021-03-08T08:51:22Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- FacebookSignUp -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:seleniumBasics.SampleTestUsingTestNG@42d80b78]" name="tearDown" is-config="true" duration-ms="340" started-at="2021-03-06T12:53:19Z" finished-at="2021-03-06T12:53:19Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:seleniumBasics.SampleTestUsingTestNG@42d80b78]" name="tearDown" is-config="true" duration-ms="384" started-at="2021-03-08T08:51:22Z" finished-at="2021-03-08T08:51:23Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
